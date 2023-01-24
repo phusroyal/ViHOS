@@ -1,5 +1,5 @@
 # ViHOS: Vietnamese Hate and Offensive Spans Detection
-This repository contains official implementation of the paper [*ViHOS: Vietnamese Hate and Offensive Spans Detection*]() accepted at the [EACL 2023]() Main Conference.
+This repository contains official implementation of the paper [*ViHOS: Vietnamese Hate and Offensive Spans Detection*]() accepted at the [EACL 2023](https://2023.eacl.org/) Main Conference.
 
 ## Introduction
 The rise in hateful and offensive language directed at other users is one of the adverse side effects of the increased use of social networking platforms. This could make it difficult for human moderators to review tagged comments filtered by classification systems.
