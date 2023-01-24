@@ -38,7 +38,7 @@ ViHOS has two versions:
 2. With an equal number of span and non-span comments helps models not be biased towards any type.
 
 
-## Baselines performance
+## Baselines' performances
 ![Performance of the baselines](images/baselines_non_spans.png)
 *Table 3. Experimental results on Full Data versus Without additional clean comments.*
 
