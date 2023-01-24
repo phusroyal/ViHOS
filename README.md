@@ -29,6 +29,7 @@ ViHOS has two versions:
 ## Dataset statistics
 ![ViHOS statistics. Vocabularies size and comments length are calculated at the syllable level](images/vihos_stats.png)
 *Table 1. ViHOS statistics. Vocabularies size and comments length are calculated at the syllable level. In which, Ha/Off? stands for a hate (Ha) or offensive (Off).*
+
 ![Spans statistics](images/spans_stats.png)
 *Table 2. Spans quantity and length statistics.*
 
@@ -42,6 +43,6 @@ ViHOS has two versions:
 *Table 3. Experimental results on Full Data versus Without additional clean comments.*
 
 ## Citation
-If you use this dataset, please cite our paper:
+If you use our dataset, codes or analyses, please cite our paper:
 ```
 ```
