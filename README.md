@@ -28,9 +28,9 @@ ViHOS has two versions:
 
 ## Dataset statistics
 ![ViHOS statistics. Vocabularies size and comments length are calculated at the syllable level](images/vihos_stats.png)
-*Fig 1. ViHOS statistics. Vocabularies size and comments length are calculated at the syllable level. In which, Ha/Off? stands for a hate (Ha) or offensive (Off).*
+*Table 1. ViHOS statistics. Vocabularies size and comments length are calculated at the syllable level. In which, Ha/Off? stands for a hate (Ha) or offensive (Off).*
 ![Spans statistics](images/spans_stats.png)
-*Fig 2. Spans quantity and length statistics.*
+*Table 2. Spans quantity and length statistics.*
 
 **NOTE**: Our dataset has equal number of span and non-span (clean) comments because:
 1. We aim to detect the hate and offensive spans directly in online comments
@@ -39,7 +39,7 @@ ViHOS has two versions:
 
 ## Baselines performance
 ![Performance of the baselines](images/baselines_non_spans.png)
-*Fig 3. Experimental results on Full Data versus Without additional clean comments.*
+*Table 3. Experimental results on Full Data versus Without additional clean comments.*
 
 ## Citation
 If you use this dataset, please cite our paper:
