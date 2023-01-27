@@ -3,7 +3,7 @@ This repository contains official implementation of the paper [*ViHOS: Vietnames
 
 ## Introduction
 
-<img alt="Night Coding" src="images/spans_aid.png" align="right" width="500" height="250"/>
+<img alt="Night Coding" src="images/spans_aid.png" align="right" width="500" height="300"/>
 
 The rise in hateful and offensive language directed at other users is one of the adverse side effects of the increased use of social networking platforms. This could make it difficult for human moderators to review tagged comments filtered by classification systems.
 
