@@ -52,4 +52,10 @@ ViHOS has two versions:
 ## Citation
 If you use our dataset, codes or analyses, please cite our paper:
 ```
+@article{hoang2023vihos,
+  title={ViHOS: Hate Speech Spans Detection for Vietnamese},
+  author={Hoang, Phu Gia and Luu, Canh Duc and Tran, Khanh Quoc and Van Nguyen, Kiet and Nguyen, Ngan Luu-Thuy},
+  journal={arXiv preprint arXiv:2301.10186},
+  year={2023}
+}
 ```
