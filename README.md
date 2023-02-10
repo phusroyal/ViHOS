@@ -1,5 +1,5 @@
 # ViHOS: Vietnamese Hate and Offensive Spans Detection
-This repository contains official implementation of the paper [*ViHOS: Vietnamese Hate and Offensive Spans Detection*]() accepted at the [EACL 2023](https://2023.eacl.org/) Main Conference.
+This repository contains official implementation of the paper [*ViHOS: Vietnamese Hate and Offensive Spans Detection*](https://arxiv.org/abs/2301.10186) accepted at the [EACL 2023](https://2023.eacl.org/) Main Conference.
 
 **Disclaimer:** This project contains real comments that could be considered profane, offensive, or abusive.
 
