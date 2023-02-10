@@ -27,11 +27,7 @@ It is splitted into train, dev, and test set with following information:
 2. Dev set: 1,106 comments
 3. Test set: 1,106 comments
 
-ViHOS has two versions:
-1. Sequence labeling-based version. There are two sub-folders: 
-     * syllable (created by tokenizing texts by VnCoreNLP for PhoBERT model).
-     * word (created by splitting texts by space for the other models).
-2. Span Extraction-based version.
+See README.md in the [dataset](data) folder for more details.
 
 ## Dataset statistics
 ![ViHOS statistics. Vocabularies size and comments length are calculated at the syllable level](images/vihos_stats.png)
