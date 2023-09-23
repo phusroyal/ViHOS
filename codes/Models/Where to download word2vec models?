@@ -1,0 +1,8 @@
+Where to download word2vec models?
+
+url = {
+        "word2vec_vi_syllables_100dims": "https://public.vinai.io/word2vec_vi_syllables_100dims.zip",
+        "word2vec_vi_syllables_300dims": "https://public.vinai.io/word2vec_vi_syllables_300dims.zip",
+        "word2vec_vi_words_100dims": "https://public.vinai.io/word2vec_vi_words_100dims.zip",
+        "word2vec_vi_words_300dims": "https://public.vinai.io/word2vec_vi_words_300dims.zip",
+    }
